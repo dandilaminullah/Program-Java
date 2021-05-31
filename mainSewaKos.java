@@ -2,11 +2,7 @@
 import com.java.SewaKOS.model.Kamar;
 import com.java.SewaKOS.model.Penyewa;
 import com.java.SewaKOS.controller.Petugas;
-
-/**
- *
- * @author Lenovo
- */
+//program penyewaan kos menggunakan java
 public class Main {
     public static void main(String args[]){
         Penyewa patur = new Penyewa("Faturrahman Lahay","Desa Datahu","750109040","08534018");
