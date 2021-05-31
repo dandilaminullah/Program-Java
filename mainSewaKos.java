@@ -9,7 +9,7 @@ public class Main {
                 
         Kamar satu = new Kamar("30","3 orang","12 maret 2021",patur);
         
-        Petugas babakan = new Petugas("Babakan putrasiregar", 69);
+        Petugas Dandi = new Petugas("Dandi Laminullah", 17);
         
         babakan.tambahKamar(satu);
         babakan.bacaKamar();
