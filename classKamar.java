@@ -3,6 +3,8 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+//Dandi Septian Laminullah
+//Program oop penyewaan Kos
 package com.java.SewaKOS.model;
 
 /**
