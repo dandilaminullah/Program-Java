@@ -1,9 +1,6 @@
 package com.java.SewaKOS.model;
 
-/**
- *
- * @author Lenovo
- */
+
 public class Kamar {
     private Penyewa sewa;
     private String nokamar,kapasitas,tglmasuk;
