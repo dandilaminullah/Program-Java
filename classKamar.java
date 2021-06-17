@@ -2,7 +2,7 @@ package com.java.SewaKOS.model;
 
 /**
  *
- * @author Lenovo
+ * @dandilaminulah
  */
 public class Kamar {
     private Penyewa sewa;
