@@ -1,6 +1,13 @@
 package com.java.SewaKOS.model;
 
 
+/**
+ *
+ * @dandilaminulah
+ */
+
+
+main
 public class Kamar {
     private Penyewa sewa;
     private String nokamar,kapasitas,tglmasuk;
